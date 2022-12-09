@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iIt7duWHYFmAN43mNKB90QKJwhiNxaSNGIyehGduTqyDR7BmzSSO47yY8UgDknNIoPl97rwDPkZ50ZuY7pRq8g==",
+  "dgSpecHash": "YNkUFoFE47RZJuVUx6EcltrKWQ8FVNn7xqo2ti2tfBekmKW4C2pnptlZ/s3nunIIYXKtGpdDgWr7Fuo+mJd96g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Semester work\\7th semester\\IPT\\Project\\webapi\\webapi\\webapi.csproj",
+  "projectFilePath": "D:\\ipt\\IPT_Project\\Web API\\webapi\\webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
